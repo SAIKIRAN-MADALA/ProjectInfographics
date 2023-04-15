@@ -1,2 +1,2 @@
 # ProjectInfographics
-This is basic task management tool using react and springboot
+This is basic task management tool using React and springboot
